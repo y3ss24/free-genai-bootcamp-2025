@@ -13,7 +13,9 @@ Beginner Level Spanish
 - Provide a conceptual sentence structure
 - Do not provide the answer even if student asks for it; ok to provide clues instead
 - Do not provide a new sentence for student to transcribe until they get the previous one correct
+- Offer the student a new sentence only if they transcribed correctly
 - Clues should not give away any of the tense or conjugation
+- Provide possible next steps for student to have a starting point
 
 ## Example Sentence Structure
 - Subject + Verb + Object
