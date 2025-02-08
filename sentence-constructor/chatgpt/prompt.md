@@ -30,6 +30,18 @@ The formatted output should consist of three parts:
 - sentence structure
 - clues and considerations
 
+### Vocabulary Table
+- The table should only include nouns, verbs, adverbs, adjectives
+- Do not provide particles in the vocabulary tables, student needs to figure out what correct particles to use
+
+### Sentence Structure
+
+- Do not provide particles in the sentence structure
+
+### Clues and considerations
+
+- Try and provide a non-nested bulleted list
+- Talk about vocabulary but leave out Spanish words because student can reference the vocabulary table
 
 ## Student input 
 I like to eat ice cream.
