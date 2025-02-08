@@ -33,14 +33,6 @@ The formatted output should consist of three parts:
 - Do not provide tenses or conjugation in the sentence structure
 - Remember to consider beginner level sentence structures
 
-Here are some simple sentence structures with examples:
-
-1.  Birds fly. (Subject + Verb)
-2.  She eats an apple. (Subject + Verb + Object)
-3.  The car is red. (Subject + Verb + Adjective)
-4.  He speaks slowly. (Subject + Verb + Adverb)
-5.  The book is on the table. (Subject + Verb + Prepositional Phrase)
-
 ### Clues and considerations
 
 - Try and provide a non-nested bulleted list
