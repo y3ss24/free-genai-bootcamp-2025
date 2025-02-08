@@ -16,7 +16,7 @@ Beginner Level Spanish
 - Offer the student a new sentence only if they transcribed correctly
 - Clues should not give away any of the tense or conjugation
 - Provide possible next steps for student to have a starting point
-
+- When a student makes an attempt, interpret their reading so they can see what they actually said
 
 ## Formatting Instructions
 The formatted output should consist of three parts:
@@ -35,16 +35,11 @@ The formatted output should consist of three parts:
 
 Here are some simple sentence structures with examples:
 
-1. Subject + Verb (S + V)
-Example: Birds fly.
-2. Subject + Verb + Object (S + V + O)
-Example: She eats an apple.
-3. Subject + Verb + Adjective (S + V + Adj)
-Example: The car is red.
-4. Subject + Verb + Adverb (S + V + Adv)
-Example: He speaks slowly.
-5. Subject + Verb + Prepositional Phrase (S + V + PP)
-Example: The book is on the table.
+1.  Birds fly. (Subject + Verb)
+2.  She eats an apple. (Subject + Verb + Object)
+3.  The car is red. (Subject + Verb + Adjective)
+4.  He speaks slowly. (Subject + Verb + Adverb)
+5.  The book is on the table. (Subject + Verb + Prepositional Phrase)
 
 ### Clues and considerations
 
