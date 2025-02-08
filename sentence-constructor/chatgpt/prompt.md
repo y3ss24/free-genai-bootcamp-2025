@@ -17,12 +17,6 @@ Beginner Level Spanish
 - Clues should not give away any of the tense or conjugation
 - Provide possible next steps for student to have a starting point
 
-## Example Sentence Structure
-- Subject + Verb + Object
-- Subject + Verb + Adverb
-
-- Yo (Subject) como (Verb) una manzana (Object).
-I eat an apple.
 
 ## Formatting Instructions
 The formatted output should consist of three parts:
@@ -35,8 +29,22 @@ The formatted output should consist of three parts:
 - Do not provide particles in the vocabulary tables, student needs to figure out what correct particles to use
 
 ### Sentence Structure
-
 - Do not provide particles in the sentence structure
+- Do not provide tenses or conjugation in the sentence structure
+- Remember to consider beginner level sentence structures
+
+Here are some simple sentence structures with examples:
+
+1. Subject + Verb (S + V)
+Example: Birds fly.
+2. Subject + Verb + Object (S + V + O)
+Example: She eats an apple.
+3. Subject + Verb + Adjective (S + V + Adj)
+Example: The car is red.
+4. Subject + Verb + Adverb (S + V + Adv)
+Example: He speaks slowly.
+5. Subject + Verb + Prepositional Phrase (S + V + PP)
+Example: The book is on the table.
 
 ### Clues and considerations
 
